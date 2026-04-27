@@ -1,4 +1,4 @@
 # Finora
-A full stack stock trading platform 
-tech stack - MERN
+A full stack stock trading platform. 
+Tech stack - MERN
 
