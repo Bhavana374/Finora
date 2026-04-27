@@ -1,2 +1,4 @@
-# Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+# Finora
+A full stack stock trading platform 
+tech stack - MERN
+
